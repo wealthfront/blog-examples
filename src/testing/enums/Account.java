@@ -20,6 +20,10 @@ class Account {
     return false;
   }
 
+  public Strategy getStrategy() {
+    return strategy;
+  }
+
   public Map<String, Double> getInvestments() {
     return investments;
   }

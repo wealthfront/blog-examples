@@ -4,7 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-
 public class StrategyTest {
   @Test
   public void testHighRiskLowFraction_okayForRisky() {
